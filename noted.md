@@ -22,4 +22,4 @@
 - the sonification was a new skill I learned
 - I used ot be very into instrumental music so I liked listening to the patterns
 - overlayed daily new cases, daily deaths, and total cases
-- lowered the total cases in the background as a beat yet th increase is still very apparent
+- lowered the total cases in the background as a beat yet the increase is still very apparent
